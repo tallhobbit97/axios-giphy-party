@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(38, 36, 36);
+}
+
+form {
+    margin-left: 2px;
+    display: inline-block;
+    flex: none;
+}
+
+#remove {
+    margin-left: 2px;
+    display: inline-block;
+    flex: none;
+}
+
+#form-container {
+    display: flex;
+    justify-content: center;
+}
